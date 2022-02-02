@@ -2,8 +2,12 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'dart:math';
-import 'package:dash_chat/dash_chat.dart';
 import 'DotNetQuestions.dart';
+import 'src/chat_view.dart';
+import 'src/models/chat_message.dart';
+import 'src/models/chat_user.dart';
+import 'src/models/quick_replies.dart';
+import 'src/models/reply.dart';
 
 String randomString() {
   final random = Random.secure();
