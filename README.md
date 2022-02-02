@@ -1,6 +1,11 @@
-# dotnetinterviewbot
+# Dot Net Interview question Answering Bot
 
-A new Flutter project.
+Dot net interview questions answering by bot.
+
+# [Click here to see the demo](https://dotnetbot.netlify.app/)
+
+
+![Demo Image](https://user-images.githubusercontent.com/1163940/152005841-7562671e-e9ad-4619-b31e-dd0be0015a28.gif)
 
 ## Getting Started
 
